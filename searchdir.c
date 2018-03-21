@@ -1,7 +1,6 @@
  /*
 * File: searchdir.c
-        * Author: YOUR NAME HERE
-        * ----------------------
+        * Author: Victor Cheruiyot
         */
 
 #include "cmap.h"
